@@ -1,0 +1,370 @@
+{
+	" ": [
+		"translators, please refer",
+		"to the translator's guide",
+		"at [guide coming soon]"
+	],
+	"id": "en-US",
+	"strings": {
+		"embeds": "Embeds",
+		"attachments": "Attachments",
+		"searching": "Searching...",
+		"score": "Score",
+		"ageRating": "Age Rating",
+		"type": "Type",
+		"status": "Status",
+		"startDate": "Start Date",
+		"endDate": "End Date",
+		"noSynopsis": "No synopsis provided.",
+		"joined": "Joined",
+		"website": "Website"
+	},
+	"events": [
+		{
+			"id": "messageDelete",
+			"strings": {
+				"title": "Message Deleted"
+			}
+		},
+		{
+			"id": "messageUpdate",
+			"strings": {
+				"title": "Message Updated",
+				"newMessage": "New Message",
+				"oldMessage": "Old Message"
+			}
+		}
+	],
+	"success": [
+		{
+			"id": "exitedMenu",
+			"title": "Exited the menu!"
+		},
+		{
+			"id": "reloadedCommand",
+			"title": "Reloaded the command!"
+		}
+	],
+	"errors": [
+		{
+			"id": "unknown",
+			"title": "Unknown Error",
+			"description": "An unknown error has occured."
+		},
+		{
+			"id": "guildOnly",
+			"title": "Command is Guild Only",
+			"description": "This command can only be ran in servers."
+		},
+		{
+			"id": "devOnly",
+			"title": "Command is Dev Only",
+			"description": "This command can only be ran by a developer."
+		},
+		{
+			"id": "DMOnly",
+			"title": "Command is DM Only",
+			"description": "This command can only be ran in direct messages."
+		},
+		{
+			"id": "disabledInPortals",
+			"title": "Command Disabled",
+			"description": "This command is disabled in Portals."
+		},
+		{
+			"id": "missingMemberPerms",
+			"title": "Missing Permissions",
+			"description": "You are missing permissions to run this command. (args[0])"
+		},
+		{
+			"id": "missingBotPerms",
+			"title": "Missing Permissions",
+			"description": "I am missing permissions to run this command. (args[0])"
+		},
+		{
+			"id": "timedOut",
+			"title": "Timed Out"
+		},
+		{
+			"id": "commandNotFound",
+			"title": "Command Not Found",
+			"description": "This command could not be found."
+		},
+		{
+			"id": "failedToReload",
+			"title": "Failed to Reload Command",
+			"description": "An unknown error has occured when trying to reload the command."
+		},
+		{
+			"id": "missingArgs",
+			"title": "Missing Arguments",
+			"description": "Aargs[0] args[1] was not provided."
+		},
+		{
+			"id": "notEnoughChoices",
+			"title": "Not Enough Choices"
+		},
+		{
+			"id": "alreadyVoted",
+			"title": "Already Voted on This Poll."
+		},
+		{
+			"id": "invalidDuration",
+			"title": "Invalid Duration",
+			"description": "An invalid duration was provided.\nCorrect syntax example: `5d 2h 30s`"
+		},
+		{
+			"id": "noResults",
+			"title": "No Results"
+		},
+		{
+			"id": "rareOccurrence",
+			"title": "What",
+			"description": "You messed up didn't ya, buddy?"
+		}
+	],
+	"commands": [
+		{
+			"id": "manga",
+			"name": "manga",
+			"description": "Searches for manga on kitsu.io.",
+			"options": [
+				{
+					"id": "query",
+					"name": "query",
+					"description": "The name of the manga to search for."
+				}
+			]
+		},
+		{
+			"id": "anime",
+			"name": "anime",
+			"description": "Searches for anime on kitsu.io.",
+			"options": [
+				{
+					"id": "query",
+					"name": "query",
+					"description": "The name of the anime to search for."
+				}
+			]
+		},
+		{
+			"id": "ping",
+			"name": "ping",
+			"description": "Returns the server latency.",
+			"strings": {
+				"heresPing": "Here's the server ping!",
+				"calculating": "Calculating the server response time...",
+				"api": "API",
+				"server": "Server"
+			}
+		},
+		{
+			"id": "poll",
+			"name": "poll",
+			"description": "Creates a poll.",
+			"options": [
+				{
+					"id": "channel",
+					"name": "channel",
+					"description": "The channel to send it to."
+				},
+				{
+					"id": "question",
+					"name": "question",
+					"description": "The question to ask."
+				},
+				{
+					"id": "duration",
+					"name": "duration",
+					"description": "How long the poll will run. (Example: 5d 2h 30s)"
+				},
+				{
+					"id": "choice1",
+					"name": "choice1",
+					"description": "The first option."
+				},
+				{
+					"id": "choice2",
+					"name": "choice2",
+					"description": "The second option."
+				},
+				{
+					"id": "choice3",
+					"name": "choice3",
+					"description": "The third option."
+				},
+				{
+					"id": "choice4",
+					"name": "choice4",
+					"description": "The fourth option."
+				}
+			]
+		},
+		{
+			"id": "info",
+			"name": "info",
+			"description": "Displays information about SamiDB.",
+			"strings": {
+				"header": "A very cozy discord bot",
+				"botDescription": "SamiDB is a stylish bot with many commands and features that are sure to make your server special.",
+				"developerTitle": "Developer",
+				"developerDescription": "Programmed the bot.",
+				"artistTitle": "Artist",
+				"artistDescription": "Drew the new avatar and art for the Samchi Feature."
+			}
+		},
+		{
+			"id": "invite",
+			"name": "invite",
+			"description": "Invite the bot to your server, or join the support server!",
+			"strings": {
+				"supportServer": "Support Server",
+				"homeServer": "Home Server"
+			}
+		},
+		{
+			"id": "8ball",
+			"name": "8ball",
+			"description": "The 8ball will decide your fate.",
+			"strings": {
+				"responses": [
+					"It is certain",
+					"It is decidedly so",
+					"Without a doubt",
+					"Yes, definitely",
+					"You may rely on it",
+					"As I see it, yes",
+					"Most likely",
+					"Outlook good",
+					"Yes",
+					"Signs point to yes",
+					"Ask again later",
+					"Better not tell you now",
+					"Maybe",
+					"Don't count on it",
+					"My reply is no",
+					"My sources say no",
+					"Outlook not so good",
+					"Very doubtful"
+				]
+			},
+			"options": [
+				{
+					"id": "question",
+					"name": "question",
+					"description": "The question to ask the 8ball."
+				}
+			]
+		},
+		{
+			"id": "developer",
+			"name": "developer",
+			"description": "Developer commands.",
+			"subcommands": [
+				{
+					"id": "reload",
+					"name": "reload",
+					"description": "Reloads stuff.",
+					"options": [
+						{
+							"id": "reloadid",
+							"name": "reloadid",
+							"description": "The id of the thing to reload."
+						}
+					]
+				},
+				{
+					"id": "eval",
+					"name": "eval",
+					"description": "Evaluates code.",
+					"options": [
+						{
+							"id": "code",
+							"name": "code",
+							"description": "The code to evaluate."
+						},
+						{
+							"id": "async",
+							"name": "async",
+							"description": "Whether to run the code asynchronously."
+						}
+					]
+				},
+				{
+					"id": "sh",
+					"name": "sh",
+					"description": "Runs shell commands.",
+					"options": [
+						{
+							"id": "command",
+							"name": "command",
+							"description": "The command to run."
+						}
+					]
+				},
+				{
+					"id": "restart",
+					"name": "restart",
+					"description": "Restarts the bot."
+				}
+			]
+		},
+		{
+			"id": "randomnumber",
+			"name": "randomnumber",
+			"description": "Generates a random number.",
+			"options": [
+				{
+					"id": "min",
+					"name": "min",
+					"description": "The minimum number to generate."
+				},
+				{
+					"id": "max",
+					"name": "max",
+					"description": "The maximum number to generate."
+				}
+			],
+			"strings": {
+				"here": "Heres your random number:"
+			}
+		},
+		{
+			"name": "user",
+			"id": "user",
+			"description": "Gives information about the user.",
+			"options": [
+				{
+					"id": "user",
+					"name": "user",
+					"description": "The user to get information about."
+				}
+			],
+			"strings": {
+				"accountCreated": "Account Created",
+				"portalMessages": "Portal Messages",
+				"commandsRan": "Commands Ran"
+			}
+		},
+		{
+			"id": "shop",
+			"name": "shop",
+			"description": "Opens the shop.",
+			"groups": [
+				{
+					"id": "samagacha",
+					"name": "samagacha",
+					"description": "The Samagacha Shop.",
+					"subcommands": [
+						{
+							"id": "view",
+							"name": "view",
+							"description": "Displays the Samagacha shop."
+						}
+					]
+				}
+			]
+		}
+	]
+}
