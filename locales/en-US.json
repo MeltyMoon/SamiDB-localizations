@@ -164,6 +164,44 @@
 							"USER1's face turns red! Adorable!"
 						]
 					}
+				},
+				{
+					"id": "cry",
+					"name": "cry",
+					"description": "Sobbing rn.",
+					"strings": {
+						"titles": [
+							"USER1 is sobbing...",
+							"USER1 is crying...",
+							"USER1 is crying... How could you!",
+							"USER1 is sobbing... How could you!",
+							"USER1 is crying... What did you do to them?",
+							"USER1 is sobbing... What did you do to them?"
+						]
+					}
+				},
+				{
+					"id": "smile",
+					"name": "smile",
+					"description": ":D",
+					"strings": {
+						"titles": [
+							"USER1 is smiling!",
+							"USER1 is happy!"
+						]
+					}
+				},
+				{
+					"id": "pout",
+					"name": "pout",
+					"description": "Hmmmph!",
+					"strings": {
+						"titles": [
+							"USER1 is pouting.",
+							"USER1 is pouting! Hmmph!",
+							"USER1 is pouting! So mean!!"
+						]
+					}
 				}
 			]
 		},
