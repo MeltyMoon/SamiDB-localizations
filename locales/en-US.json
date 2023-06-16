@@ -149,7 +149,23 @@
 		{
 			"id": "rp",
 			"name": "roleplay",
-			"description": "Various roleplay commands."
+			"description": "Various roleplay commands.",
+			"subcommands": [
+				{
+					"id": "blush",
+					"name": "blush",
+					"description": "Blushy wushy.",
+					"strings": {
+						"titles": [
+							"USER1 blushes! Cute!",
+							"USER1 blushes! Adorable!",
+							"USER1's face turns red!",
+							"USER1's face turns red! Cute!",
+							"USER1's face turns red! Adorable!"
+						]
+					}
+				}
+			]
 		},
 		{
 			"id": "manga",
