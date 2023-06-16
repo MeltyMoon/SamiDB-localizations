@@ -147,6 +147,11 @@
 			}
 		},
 		{
+			"id": "rp",
+			"name": "roleplay",
+			"description": "Various roleplay commands."
+		},
+		{
 			"id": "manga",
 			"name": "manga",
 			"description": "Searches for manga on kitsu.io.",
