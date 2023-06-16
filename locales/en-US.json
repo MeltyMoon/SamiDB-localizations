@@ -192,6 +192,203 @@
 					}
 				},
 				{
+					"id": "hug",
+					"name": "hug",
+					"description": "Biiiig hugs!",
+					"strings": {
+						"titles": [
+							"USER1 gives USER2 a hug!",
+							"USER1 gives USER2 a big hug!",
+							"USER1 gives USER2 a beeeeg hug!",
+							"USER1 hugs USER2!",
+							"USER1 hugs USER2! Cozy!!"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to hug."
+						}
+					]
+				},
+				{
+					"id": "kiss",
+					"name": "kiss",
+					"description": "Mwah!!!",
+					"strings": {
+						"titles": [
+							"USER1 kisses USER2!",
+							"USER1 smooches USER2!",
+							"USER1 kisses USER2 on the lips!",
+							"USER1 kisses USER2 on the cheeks!",
+							"USER1 gives USER2 a smooch on the cheek!!"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to kiss."
+						}
+					]
+				},
+				{
+					"id": "slap",
+					"name": "slap",
+					"description": "Attack!!!!!",
+					"strings": {
+						"titles": [
+							"USER1 slaps USER2!",
+							"USER1 slaps USER2! Ouch!",
+							"USER1 hits USER2!",
+							"USER1 slaps USER2! Probably deserved it!"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to slap."
+						}
+					]
+				},
+				{
+					"id": "bonk",
+					"name": "bonk",
+					"description": "Go to horny jail!!",
+					"strings": {
+						"titles": [
+							"USER1 bonks USER2!",
+							"USER1 bonks USER2! Go to horny jail!"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to bonk."
+						}
+					]
+				},
+				{
+					"id": "lick",
+					"name": "lick",
+					"description": "Mlem!!",
+					"strings": {
+						"titles": [
+							"USER1 licks USER2!",
+							"USER1 licks USER2! Kinky~!",
+							"USER1 licks USER2! L-Lewd!",
+							"USER1 licks USER2! So lewd!"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to lick."
+						}
+					]
+				},
+				{
+					"id": "nom",
+					"name": "nom",
+					"description": "NOM!",
+					"strings": {
+						"titles": [
+							"USER1 noms USER2!",
+							"USER1 bites USER2!",
+							"USER1 noms USER2! Chomp!!",
+							"USER1 bites USER2! Chomp!!"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to nom."
+						}
+					]
+				},
+				{
+					"id": "pet",
+					"name": "pet",
+					"description": "Headpats!",
+					"strings": {
+						"titles": [
+							"USER1 pats USER2's head!",
+							"USER1 pets USER2!",
+							"USER1 pets USER2's head",
+							"USER1 pets USER2! There, there!"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to pet."
+						}
+					]
+				},
+				{
+					"id": "boop",
+					"name": "boop",
+					"description": "Boop that snoot!",
+					"strings": {
+						"titles": [
+							"USER1 boops USER2!",
+							"USER1 boops USER2 on the nose!"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to boop."
+						}
+					]
+				},
+				{
+					"id": "snuggle",
+					"name": "snuggle",
+					"description": "Snuggle time.",
+					"strings": {
+						"titles": [
+							"USER1 snuggles USER2!",
+							"USER1 snuggles USER2! Cute!",
+							"USER1 snuggles USER2! Adorable",
+							"USER1 cuddles USER2!",
+							"USER1 cuddles USER2! Cute!",
+							"USER1 cuddles USER2! Adorable"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to snuggle."
+						}
+					]
+				},
+				{
+					"id": "poke",
+					"name": "poke",
+					"description": "Poke your mom.",
+					"strings": {
+						"titles": [
+							"USER1 pokes USER2!"
+						]
+					},
+					"options": [
+						{
+							"id": "user",
+							"name": "user",
+							"description": "The user to poke."
+						}
+					]
+				},
+				{
 					"id": "pout",
 					"name": "pout",
 					"description": "Hmmmph!",
