@@ -1,0 +1,14 @@
+{
+	"embeds": "Embeds",
+	"attachments": "Attachments",
+	"searching": "Searching...",
+	"score": "Score",
+	"ageRating": "Age Rating",
+	"type": "Type",
+	"status": "Status",
+	"startDate": "Start Date",
+	"endDate": "End Date",
+	"noSynopsis": "No synopsis provided.",
+	"joined": "Joined",
+	"website": "Website"
+}

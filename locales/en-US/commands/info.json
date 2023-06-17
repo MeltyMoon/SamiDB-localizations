@@ -1,0 +1,12 @@
+{
+    "name": "info",
+    "description": "Displays information about SamiDB.",
+    "strings": {
+        "header": "A very cozy discord bot",
+        "botDescription": "SamiDB is a stylish bot with many commands and features that are sure to make your server special.",
+        "developerTitle": "Developer",
+        "developerDescription": "Programmed the bot.",
+        "artistTitle": "Artist",
+        "artistDescription": "Drew the new avatar and art for the Samchi Feature."
+    }
+}

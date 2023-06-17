@@ -1,0 +1,10 @@
+{
+	"name": "ping",
+	"description": "Returns the server latency.",
+	"strings": {
+		"heresPing": "Here's the server ping!",
+		"calculating": "Calculating the server response time...",
+		"api": "API",
+		"server": "Server"
+	}
+}

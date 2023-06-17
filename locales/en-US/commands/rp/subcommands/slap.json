@@ -1,0 +1,19 @@
+{
+	"name": "slap",
+	"description": "Attack!!!!!",
+	"strings": {
+		"titles": [
+			"USER1 slaps USER2!",
+			"USER1 slaps USER2! Ouch!",
+			"USER1 hits USER2!",
+			"USER1 slaps USER2! Probably deserved it!"
+		]
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "user",
+			"description": "The user to slap."
+		}
+	]
+}

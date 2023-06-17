@@ -1,0 +1,19 @@
+{
+	"name": "nom",
+	"description": "NOM!",
+	"strings": {
+		"titles": [
+			"USER1 noms USER2!",
+			"USER1 bites USER2!",
+			"USER1 noms USER2! Chomp!!",
+			"USER1 bites USER2! Chomp!!"
+		]
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "user",
+			"description": "The user to nom."
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "poke",
+	"description": "Poke your mom.",
+	"strings": {
+		"titles": [
+			"USER1 pokes USER2!"
+		]
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "user",
+			"description": "The user to poke."
+		}
+	]
+}

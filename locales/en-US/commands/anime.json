@@ -1,0 +1,11 @@
+{
+	"name": "anime",
+	"description": "Searches for anime on kitsu.io.",
+	"options": [
+		{
+			"id": "query",
+			"name": "query",
+			"description": "The name of the anime to search for."
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "pout",
+	"description": "Hmmmph!",
+	"strings": {
+		"titles": [
+			"USER1 is pouting.",
+			"USER1 is pouting! Hmmph!",
+			"USER1 is pouting! So mean!!"
+		]
+	}
+}

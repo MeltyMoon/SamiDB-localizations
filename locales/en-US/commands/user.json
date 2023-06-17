@@ -1,0 +1,16 @@
+{
+	"name": "user",
+	"description": "Gives information about the user.",
+	"options": [
+		{
+			"id": "user",
+			"name": "user",
+			"description": "The user to get information about."
+		}
+	],
+	"strings": {
+		"accountCreated": "Account Created",
+		"portalMessages": "Portal Messages",
+		"commandsRan": "Commands Ran"
+	}
+}

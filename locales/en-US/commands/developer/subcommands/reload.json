@@ -1,0 +1,11 @@
+{
+	"name": "reload",
+	"description": "Reloads stuff.",
+	"options": [
+		{
+			"id": "reloadid",
+			"name": "reloadid",
+			"description": "The id of the thing to reload."
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "lick",
+	"description": "Mlem!!",
+	"strings": {
+		"titles": [
+			"USER1 licks USER2!",
+			"USER1 licks USER2! Kinky~!",
+			"USER1 licks USER2! L-Lewd!",
+			"USER1 licks USER2! So lewd!"
+		]
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "user",
+			"description": "The user to lick."
+		}
+	]
+}

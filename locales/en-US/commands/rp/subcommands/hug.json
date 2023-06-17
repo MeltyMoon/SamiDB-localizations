@@ -1,0 +1,20 @@
+{
+	"name": "hug",
+	"description": "Biiiig hugs!",
+	"strings": {
+		"titles": [
+			"USER1 gives USER2 a hug!",
+			"USER1 gives USER2 a big hug!",
+			"USER1 gives USER2 a beeeeg hug!",
+			"USER1 hugs USER2!",
+			"USER1 hugs USER2! Cozy!!"
+		]
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "user",
+			"description": "The user to hug."
+		}
+	]
+}
