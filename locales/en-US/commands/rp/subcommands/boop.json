@@ -1,0 +1,17 @@
+{
+	"name": "boop",
+	"description": "Boop that snoot!",
+	"strings": {
+		"titles": [
+			"USER1 boops USER2!",
+			"USER1 boops USER2 on the nose!"
+		]
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "user",
+			"description": "The user to boop."
+		}
+	]
+}

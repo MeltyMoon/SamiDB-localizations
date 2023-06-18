@@ -1,0 +1,4 @@
+{
+	"title": "Invalid Duration",
+	"description": "An invalid duration was provided.\nCorrect syntax example: `5d 2h 30s`"
+}

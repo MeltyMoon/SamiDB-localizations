@@ -1,0 +1,21 @@
+{
+	"name": "snuggle",
+	"description": "Snuggle time.",
+	"strings": {
+		"titles": [
+			"USER1 snuggles USER2!",
+			"USER1 snuggles USER2! Cute!",
+			"USER1 snuggles USER2! Adorable",
+			"USER1 cuddles USER2!",
+			"USER1 cuddles USER2! Cute!",
+			"USER1 cuddles USER2! Adorable"
+		]
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "user",
+			"description": "The user to snuggle."
+		}
+	]
+}

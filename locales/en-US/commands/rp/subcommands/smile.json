@@ -1,0 +1,10 @@
+{
+	"name": "smile",
+	"description": ":D",
+	"strings": {
+		"titles": [
+			"USER1 is smiling!",
+			"USER1 is happy!"
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"name": "poll",
+	"description": "Creates a poll.",
+	"options": [
+		{
+			"id": "channel",
+			"name": "channel",
+			"description": "The channel to send it to."
+		},
+		{
+			"id": "question",
+			"name": "question",
+			"description": "The question to ask."
+		},
+		{
+			"id": "duration",
+			"name": "duration",
+			"description": "How long the poll will run. (Example: 5d 2h 30s)"
+		},
+		{
+			"id": "choice1",
+			"name": "choice1",
+			"description": "The first option."
+		},
+		{
+			"id": "choice2",
+			"name": "choice2",
+			"description": "The second option."
+		},
+		{
+			"id": "choice3",
+			"name": "choice3",
+			"description": "The third option."
+		},
+		{
+			"id": "choice4",
+			"name": "choice4",
+			"description": "The fourth option."
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "bonk",
+	"description": "Go to horny jail!!",
+	"strings": {
+		"titles": [
+			"USER1 bonks USER2!",
+			"USER1 bonks USER2! Go to horny jail!"
+		]
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "user",
+			"description": "The user to bonk."
+		}
+	]
+}
