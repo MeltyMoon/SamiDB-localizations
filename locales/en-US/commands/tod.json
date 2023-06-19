@@ -1,6 +1,18 @@
 {
 	"name": "tod",
 	"description": "Starts a game of truth or dare.",
+	"options": [
+		{
+			"id": "rating",
+			"name": "rating",
+			"description": "The age rating for the prompts."
+		},
+		{
+			"id": "choice",
+			"name": "choice",
+			"description": "The choice of which type of prompt to request."
+		}
+	],
 	"strings": {
 		"truthPG": [
 			"Ping the person with the nicest voice.",
