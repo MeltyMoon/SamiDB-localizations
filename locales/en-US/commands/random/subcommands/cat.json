@@ -1,0 +1,7 @@
+{
+	"name": "cat",
+	"description": "Sends a random cat picture.",
+	"strings": {
+		"title": "Here's the cat you requested!"
+	}
+}
