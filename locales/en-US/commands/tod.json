@@ -3,6 +3,7 @@
 	"description": "Starts a game of truth or dare.",
 	"strings": {
 		"truthPG": [
+			"Ping the person with the nicest voice.",
 			"What's your favorite animal?",
 			"What's your funny nickname at home or school?",
 			"What's your favorite movie?",
@@ -71,12 +72,15 @@
 			"Jog around the room ten times.",
 			"Take a bite out of a stick of butter.",
 			"Talk with your tongue sticking out for 2 minutes.",
-			"Type something with only your nose."
+			"Type something with only your nose.",
+			"Eat a spoonful of mustard.",
+			"Eat a spoonful of mayonnaise."
 		],
 		"truthPG13": [],
 		"darePG13": [
 			"Ask out your crush.",
-			"Tell everyone who your crush is."
+			"Tell everyone who your crush is.",
+			"Ping the person you want to date the most."
 		],
 		"truthM": [
 			"What is your Dirtiest Secret?",
