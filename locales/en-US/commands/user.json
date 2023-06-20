@@ -10,6 +10,7 @@
 	],
 	"strings": {
 		"accountCreated": "Account Created",
+		"joined": "Joined",
 		"portalMessages": "Portal Messages",
 		"commandsRan": "Commands Ran"
 	}
