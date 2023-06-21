@@ -1,0 +1,11 @@
+{
+	"name": "insult",
+	"description": "Gives you an insult.",
+	"strings": {
+		"insult": [
+			"You have pursued intelligence all your life, but alas, it still evades you.",
+			"I'd call your life a joke, but it'd need to be funny for that.",
+			"Ur mom"
+		]
+	}
+}
