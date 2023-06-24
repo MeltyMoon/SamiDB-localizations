@@ -1,6 +1,9 @@
 {
 	"name": "pet",
 	"description": "Headpats!",
+	"aliases": [
+		"pet"
+	],
 	"strings": {
 		"titles": [
 			"USER1 pats USER2's head!",

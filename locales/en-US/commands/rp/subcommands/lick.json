@@ -1,6 +1,9 @@
 {
 	"name": "lick",
 	"description": "Mlem!!",
+	"aliases": [
+		"lick"
+	],
 	"strings": {
 		"titles": [
 			"USER1 licks USER2!",

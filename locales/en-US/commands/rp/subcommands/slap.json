@@ -1,6 +1,9 @@
 {
 	"name": "slap",
 	"description": "Attack!!!!!",
+	"aliases": [
+		"slap"
+	],
 	"strings": {
 		"titles": [
 			"USER1 slaps USER2!",

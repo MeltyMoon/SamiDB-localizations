@@ -1,6 +1,9 @@
 {
 	"name": "snuggle",
 	"description": "Snuggle time.",
+	"aliases": [
+		"snuggle"
+	],
 	"strings": {
 		"titles": [
 			"USER1 snuggles USER2!",

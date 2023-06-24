@@ -1,0 +1,27 @@
+{
+	"name": "server",
+	"description": "Gives information about the server.",
+	"aliases": [
+		"serverinfo"
+	],
+	"strings": {
+		"boosts": "Boosts",
+		"level": "Level",
+		"users": "Users",
+		"bots": "Bots",
+		"totalMembers": "Total Members",
+		"emojis": "Emojis",
+		"normalEmojis": "Normal Emojis",
+		"animatedEmojis": "Animated Emojis",
+		"settings": "Settings",
+		"roles": "Roles",
+		"channels": "Channels",
+		"textChannels": "Text Channels",
+		"voiceChannels": "Voice Channels",
+		"newsChannels": "News Channels",
+		"forumChannels": "Forum Channels",
+		"language": "Language",
+		"verificationLevel": "Verification Level",
+		"serverCreated": "Server Created"
+	}
+}

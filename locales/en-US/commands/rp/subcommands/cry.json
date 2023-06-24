@@ -1,6 +1,9 @@
 {
 	"name": "cry",
 	"description": "Sobbing rn.",
+	"aliases": [
+		"cry"
+	],
 	"strings": {
 		"titles": [
 			"USER1 is sobbing...",

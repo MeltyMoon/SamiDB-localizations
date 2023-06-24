@@ -1,6 +1,9 @@
 {
 	"name": "smile",
 	"description": ":D",
+	"aliases": [
+		"smile"
+	],
 	"strings": {
 		"titles": [
 			"USER1 is smiling!",

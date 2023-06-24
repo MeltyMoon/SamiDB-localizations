@@ -1,6 +1,9 @@
 {
 	"name": "poke",
 	"description": "Poke your mom.",
+	"aliases": [
+		"poke"
+	],
 	"strings": {
 		"titles": [
 			"USER1 pokes USER2!"

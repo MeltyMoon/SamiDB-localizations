@@ -1,6 +1,9 @@
 {
 	"name": "user",
 	"description": "Gives information about the user.",
+	"aliases": [
+		"userinfo"
+	],
 	"options": [
 		{
 			"id": "user",

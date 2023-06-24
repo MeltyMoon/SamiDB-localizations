@@ -1,6 +1,9 @@
 {
 	"name": "reload",
 	"description": "Reloads stuff.",
+	"aliases": [
+		"reload"
+	],
 	"options": [
 		{
 			"id": "reloadid",

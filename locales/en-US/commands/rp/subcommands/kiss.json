@@ -1,6 +1,9 @@
 {
 	"name": "kiss",
 	"description": "Mwah!!!",
+	"aliases": [
+		"kiss"
+	],
 	"strings": {
 		"titles": [
 			"USER1 kisses USER2!",

@@ -1,6 +1,9 @@
 {
 	"name": "boop",
 	"description": "Boop that snoot!",
+	"aliases": [
+		"boop"
+	],
 	"strings": {
 		"titles": [
 			"USER1 boops USER2!",

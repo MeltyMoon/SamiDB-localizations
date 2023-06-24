@@ -1,6 +1,9 @@
 {
 	"name": "nom",
 	"description": "NOM!",
+	"aliases": [
+		"nom"
+	],
 	"strings": {
 		"titles": [
 			"USER1 noms USER2!",

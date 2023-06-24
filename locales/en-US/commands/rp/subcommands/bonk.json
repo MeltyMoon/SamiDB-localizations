@@ -1,6 +1,9 @@
 {
 	"name": "bonk",
 	"description": "Go to horny jail!!",
+	"aliases": [
+		"bonk"
+	],
 	"strings": {
 		"titles": [
 			"USER1 bonks USER2!",

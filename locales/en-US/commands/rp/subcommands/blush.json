@@ -1,6 +1,9 @@
 {
 	"name": "blush",
 	"description": "Blushy wushy.",
+	"aliases": [
+		"blush"
+	],
 	"strings": {
 		"titles": [
 			"USER1 blushes! Cute!",
