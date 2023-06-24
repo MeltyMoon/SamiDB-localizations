@@ -1,4 +1,7 @@
 {
     "name": "roleplay",
-    "description": "Various roleplay commands."
+    "description": "Various roleplay commands.",
+	"aliases": [
+		"rp"
+	]
 }
