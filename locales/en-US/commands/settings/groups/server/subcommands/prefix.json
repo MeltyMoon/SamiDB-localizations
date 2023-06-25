@@ -1,0 +1,11 @@
+{
+    "name": "prefix",
+    "description": "Sets or views the server prefix.",
+	"options": [
+		{
+			"id": "prefix",
+			"name": "prefix",
+			"description": "The prefix to set."
+		}
+	]
+}
