@@ -10,5 +10,10 @@
 	],
 	"aliases": [
 		"prefix"
-	]
+	],
+	"strings": {
+		"prefixIs": "The prefix for the server is ",
+		"prefixSet": "Prefix set!",
+		"prefixSetTo": "The prefix for the server has been set to "
+	}
 }
