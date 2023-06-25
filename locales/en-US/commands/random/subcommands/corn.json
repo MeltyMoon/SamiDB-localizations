@@ -2,7 +2,8 @@
     "name": "corn",
     "description": "Sends cornography.",
 	"aliases": [
-		"cornography"
+		"cornography",
+		"corn"
 	],
     "strings": {
         "heAteYourCorn": ["Too bad!! He ate your corn!!", "Too bad!! He ate the corn!!", "Oh no, He ate your corn!!", "He ate your corn!!", "This man has stolen and eaten your corn!!"],
