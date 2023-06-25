@@ -5,7 +5,7 @@
 		{
 			"id": "prefix",
 			"name": "prefix",
-			"description": "The prefix to set."
+			"description": "The prefix to set. (set value to NONE to remove the prefix)"
 		}
 	],
 	"aliases": [
