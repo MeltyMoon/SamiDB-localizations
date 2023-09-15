@@ -1,0 +1,14 @@
+
+{
+	"name": "slowclap",
+	"description": "Well done... (Sarcastic)",
+	"aliases": [
+		"slowclap"
+	],
+	"strings": {
+		"titles": [
+			"USER1 slowly claps... Nice job... (Sarcasm)",
+			"USER1 slowly claps... Very cool... (Sarcasm)"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "clap",
+	"description": "Well done!!",
+	"aliases": [
+		"clap"
+	],
+	"strings": {
+		"titles": [
+			"USER1 claps!! Well done!!",
+			"USER1 claps. Well done!"
+		]
+	}
+}

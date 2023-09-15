@@ -1,0 +1,15 @@
+{
+	"name": "facepalm",
+	"description": "Sigh...",
+	"aliases": [
+		"facepalm"
+	],
+	"strings": {
+		"titles": [
+			"USER1 facepalms...",
+			"USER1 facepalms... *Sigh*...",
+			"USER1 facepalms.",
+			"USER1 facepalms. *Sigh*..."
+		]
+	}
+}
