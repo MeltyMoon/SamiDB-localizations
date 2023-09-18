@@ -1,0 +1,14 @@
+{
+	"name": "recache",
+	"description": "Recaches stuff.",
+	"aliases": [
+		"recache"
+	],
+	"options": [
+		{
+			"id": "recachetype",
+			"name": "type",
+			"description": "The type of things to recache."
+		}
+	]
+}
