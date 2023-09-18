@@ -8,7 +8,7 @@
 		{
 			"id": "onfinish",
 			"name": "onfinish",
-			"description": "What to do when it finishes."
+			"description": "What to do when its done"
 		}
 	]
 }
