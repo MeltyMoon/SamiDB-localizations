@@ -7,7 +7,7 @@
 	"options": [
 		{
 			"id": "recachetype",
-			"name": "type",
+			"name": "recachetype",
 			"description": "The type of things to recache."
 		}
 	]
