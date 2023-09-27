@@ -10,5 +10,12 @@
 		"decline": "Decline",
 		"turn": "USER's turn.",
 		"won": "USER has won!!"
-    }
+    },
+	"options": [
+		{
+			"id": "opponent",
+			"name": "opponent",
+			"description": "The opponent to challenge."
+		}
+	]
 }
