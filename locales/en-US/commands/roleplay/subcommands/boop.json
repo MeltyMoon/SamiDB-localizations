@@ -8,7 +8,8 @@
 		"titles": [
 			"USER1 boops USER2!",
 			"USER1 boops USER2 on the nose!"
-		]
+		],
+		"footer": "USER1 has booped USER2 COUNT time'S'!"
 	},
 	"options": [
 		{

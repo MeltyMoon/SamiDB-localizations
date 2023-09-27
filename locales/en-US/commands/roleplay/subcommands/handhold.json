@@ -13,7 +13,8 @@
 			"USER1 grabs USER2's hand. So lewd!!!",
 			"USER1 takes USER2's hand.",
 			"USER1 takes USER2's hand. So lewd!!!"
-		]
+		],
+		"footer": "USER1 has held USER2's hand COUNT time'S'!"
 	},
 	"options": [
 		{

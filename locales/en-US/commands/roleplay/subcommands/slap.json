@@ -10,7 +10,8 @@
 			"USER1 slaps USER2! Ouch!",
 			"USER1 hits USER2!",
 			"USER1 slaps USER2! Probably deserved it!"
-		]
+		],
+		"footer": "USER1 has slapped USER2 COUNT time'S'!"
 	},
 	"options": [
 		{

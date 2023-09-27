@@ -6,8 +6,12 @@
 	],
 	"strings": {
 		"titles": [
-			"USER1 pokes USER2!"
-		]
+			"USER1 pokes USER2!",
+			"USER1 pokes USER2! Pokey-pokey-poke!!!",
+			"USER1 pokes USER2.",
+			"USER1 pokes USER2. Pokey-pokey-poke!!!"
+		],
+		"footer": "USER1 has poked USER2 COUNT time'S'!"
 	},
 	"options": [
 		{

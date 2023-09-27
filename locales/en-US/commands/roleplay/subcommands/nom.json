@@ -10,7 +10,8 @@
 			"USER1 bites USER2!",
 			"USER1 noms USER2! Chomp!!",
 			"USER1 bites USER2! Chomp!!"
-		]
+		],
+		"footer": "USER1 has nommed USER2 COUNT time'S'!"
 	},
 	"options": [
 		{

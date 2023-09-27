@@ -10,7 +10,8 @@
 			"USER1 licks USER2! Kinky~!",
 			"USER1 licks USER2! L-Lewd!",
 			"USER1 licks USER2! So lewd!"
-		]
+		],
+		"footer": "USER1 has licked USER2 COUNT time'S'!"
 	},
 	"options": [
 		{

@@ -10,7 +10,8 @@
 			"USER1 pets USER2!",
 			"USER1 pets USER2's head",
 			"USER1 pets USER2! There, there!"
-		]
+		],
+		"footer": "USER1 has patted USER2 COUNT time'S'!"
 	},
 	"options": [
 		{

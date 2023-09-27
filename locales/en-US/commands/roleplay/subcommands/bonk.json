@@ -8,7 +8,8 @@
 		"titles": [
 			"USER1 bonks USER2!",
 			"USER1 bonks USER2! Go to horny jail!"
-		]
+		],
+		"footer": "USER1 has bonked USER2 COUNT time'S'!"
 	},
 	"options": [
 		{

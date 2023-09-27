@@ -11,7 +11,8 @@
 			"USER1 gives USER2 a beeeeg hug!",
 			"USER1 hugs USER2!",
 			"USER1 hugs USER2! Cozy!!"
-		]
+		],
+		"footer": "USER1 has hugged USER2 COUNT time'S'!"
 	},
 	"options": [
 		{

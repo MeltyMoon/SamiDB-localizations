@@ -12,7 +12,8 @@
 			"USER1 cuddles USER2!",
 			"USER1 cuddles USER2! Cute!",
 			"USER1 cuddles USER2! Adorable"
-		]
+		],
+		"footer": "USER1 has snuggled USER2 COUNT time'S'!"
 	},
 	"options": [
 		{
