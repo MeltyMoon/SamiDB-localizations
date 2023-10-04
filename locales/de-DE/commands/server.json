@@ -1,0 +1,28 @@
+{
+	"id": "server",
+	"name": "server",
+	"description": "Gibt die Informationen über diesen Server.",
+	"aliases": [
+		"serverinfo"
+	],
+	"strings": {
+		"boosts": "Boosts",
+		"level": "Level",
+		"users": "Nutzer",
+		"bots": "Bots",
+		"totalMembers": "Mitglieder Gesamt",
+		"emojis": "Emojis",
+		"normalEmojis": "Normale Emojis",
+		"animatedEmojis": "Animierte Emojis",
+		"settings": "Einstellungen",
+		"roles": "Rollen",
+		"channels": "Kanäle",
+		"textChannels": "Textkanäle",
+		"voiceChannels": "Audiokanäle",
+		"newsChannels": "Newskanäle",
+		"forumChannels": "Foren",
+		"language": "Sprache",
+		"verificationLevel": "Verifizierungslevel",
+		"serverCreated": "Erstellt"
+	}
+}

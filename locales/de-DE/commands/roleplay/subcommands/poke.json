@@ -1,0 +1,24 @@
+{
+	"id": "poke",
+	"name": "anstupsen",
+	"description": "Stups deine Mutter.",
+	"aliases": [
+		"stupser"
+	],
+	"strings": {
+		"titles": [
+			"USER1 stupst USER2 an an!",
+			"USER1 stupst USER2 an! Stupsi-stupsi-stups!!!",
+			"USER1 stupst USER2 an.",
+			"USER1 stupst USER2 an. Stupsi-stupsi-stups!!!"
+		],
+		"footer": "USER1 hat USER2 COUNT mal angestupst!"
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "nutzer",
+			"description": "Der Nutzer, den du anstupsen möchtest."
+		}
+	]
+}

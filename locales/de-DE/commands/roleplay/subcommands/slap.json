@@ -1,0 +1,24 @@
+{
+	"id": "hit",
+	"name": "schlagen",
+	"description": "Attacke!!!!!",
+	"aliases": [
+		"hauen"
+	],
+	"strings": {
+		"titles": [
+			"USER1 schlägt USER2!",
+			"USER1 schlägt USER2! Autsch!",
+			"USER1 haut USER2!",
+			"USER1 schlägt USER2! Das hat er/sie wahrscheinlich verdient!"
+		],
+		"footer": "USER1 hat USER2 COUNT mal gehauen!"
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "nutzer",
+			"description": "Der Nutzer, den du hauen möchtest."
+		}
+	]
+}

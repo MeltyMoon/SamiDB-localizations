@@ -1,0 +1,17 @@
+{
+	"id": "blush",
+	"name": "schämen",
+	"description": "Ich werde ganz rot, uwu~",
+	"aliases": [
+		"erröten"
+	],
+	"strings": {
+		"titles": [
+			"USER1 errötet! Wie süß!",
+			"USER1 errötet! Nawwwh!",
+			"USER1 wird ganz rot!",
+			"USER1 wird ganz rot! Wie süß!",
+			"USER1 wird ganz rot! Nawwwh!"
+		]
+	}
+}

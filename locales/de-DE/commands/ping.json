@@ -1,0 +1,14 @@
+{
+	"id": "ping",
+	"name": "ping",
+	"description": "Gibt die Server-Latenz zurück.",
+	"aliases": [
+		"pong"
+	],
+	"strings": {
+		"heresPing": "Hier ist die Server-Latenz!",
+		"calculating": "Ich berechne gerade die Server-Latenz...",
+		"api": "API",
+		"server": "Server"
+	}
+}

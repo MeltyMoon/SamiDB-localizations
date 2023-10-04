@@ -1,0 +1,14 @@
+{
+	"embeds": "Embeds",
+	"attachments": "Anhänge",
+	"searching": "Suche läuft...",
+	"score": "Punkte",
+	"ageRating": "Altersbeschränkung",
+	"type": "Typ",
+	"status": "Status",
+	"startDate": "Startdatum",
+	"endDate": "Enddatum",
+	"noSynopsis": "Keine Zusammenfassung angegeben.",
+	"joined": "Beigetreten: ",
+	"website": "Website: "
+}

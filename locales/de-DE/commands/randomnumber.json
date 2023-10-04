@@ -1,0 +1,20 @@
+{
+	"id": "randomnumber",
+	"name": "zufallszahl",
+	"description": "Genertiert eine zufällige Zahl.",
+	"options": [
+		{
+			"id": "min",
+			"name": "min",
+			"description": "Die niedrigste Zahl, die möglich sein soll."
+		},
+		{
+			"id": "max",
+			"name": "max",
+			"description": "Die höchste Zahl, die mäglich sein soll."
+		}
+	],
+	"strings": {
+		"here": "Hier ist deine zufällige Zahl:"
+	}
+}
