@@ -1,0 +1,25 @@
+{
+	"id": "kiss",
+	"name": "küssen",
+	"description": "Mwah!!!",
+	"aliases": [
+		"kuss"
+	],
+	"strings": {
+		"titles": [
+			"USER1 küsst USER2!",
+			"USER1 schmatzt USER2!",
+			"USER1 küsst USER2 auf die Lippen!",
+			"USER1 küsst USER2 auf die Wange!",
+			"USER1 gibt USER2 einen Schmatzer auf die Wange!"
+		],
+		"footer": "USER1 hat USER2 COUNT mal geküsst!
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "nutzer",
+			"description": "Der Nutzer, den du küssen möchstest.
+		}
+	]
+}

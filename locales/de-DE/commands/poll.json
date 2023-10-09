@@ -1,0 +1,42 @@
+{
+	"id": "poll",
+	"name": "umfage",
+	"description": "Startet eine Umfrage.",
+	"options": [
+		{
+			"id": "channel",
+			"name": "kanal",
+			"description": "Der Kanal, in dem die Umfrage stattfinden soll."
+		},
+		{
+			"id": "question",
+			"name": "frage",
+			"description": "Deine Frage."
+		},
+		{
+			"id": "duration",
+			"name": "dauer",
+			"description": "Wie lange die Umfrage dauern soll. (z.B. 5d 2h 30s -> 5 Tage, 2 Stunden, 30 Sekunden)"
+		},
+		{
+			"id": "choice1",
+			"name": "option1",
+			"description": "Die erste Option"
+		},
+		{
+			"id": "choice2",
+			"name": "option2",
+			"description": "Die zweite Option"
+		},
+		{
+			"id": "choice3",
+			"name": "option3",
+			"description": "Die dritte Option"
+		},
+		{
+			"id": "choice4",
+			"name": "option4",
+			"description": "Die vierte Option"
+		}
+	]
+}

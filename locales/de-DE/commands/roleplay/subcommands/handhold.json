@@ -1,0 +1,26 @@
+{
+	"id": "handhold",
+	"name": "handhalten",
+	"description": "Und das vor der Ehe???? Ihr Perverslinge!!",
+	"aliases": [
+		"händehalten",
+	],
+	"strings": {
+		"titles": [
+			"USER1 hält die Hand von USER2.",
+			"USER1 hält die Hand von USER2. Wie pervers!!!",
+			"USER1 schnappt sich die Hand von USER2.",
+			"USER1 schnappt sich die Hand von USER2. Wie pervers!!!",
+			"USER1 nimmt die Hand von USER2",
+			"USER1 nimmt die Hand von USER2. Wie pervers!!!"
+		],
+		"footer": "USER1 hat die hand von USER2 COUNT mal gehalten!"
+	},
+	"options": [
+		{
+			"id": "user",
+			"name": "nutzer",
+			"description": "Der Nutzer, dessen Hand du halten möchtest."
+		}
+	]
+}

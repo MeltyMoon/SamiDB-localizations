@@ -1,0 +1,22 @@
+{
+    "id": "tictactoe",
+    "name": "tictactoe",
+	"aliases": [
+		"ttt"
+	],
+    "description": "Fordere jemanden zu Tic-Tac-Toe heraus!",
+    "strings": {
+		"challenges": "USER2, USER1 fordert dich zu Tic-Tac-Toe heraus!",
+		"accept": "Annehmen",
+		"decline": "Ablehnen",
+		"turn": "USER ist dran.",
+		"won": "USER hat gewonnen!!"
+    },
+	"options": [
+		{
+			"id": "opponent",
+			"name": "gegner",
+			"description": "Der Nutzer, den du herausfordern möchtest."
+		}
+	]
+}

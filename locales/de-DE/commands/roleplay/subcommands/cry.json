@@ -1,0 +1,16 @@
+{
+	"id": "cry",
+	"name": "weinen",
+	"description": "Bin gerade am weinen.",
+	"aliases": [],
+	"strings": {
+		"titles": [
+			"USER1 ist am weinen...",
+			"USER1 ist am flennen...",
+			"USER1 ist am flennen... Wie konntest du nur!",
+			"USER1 ist am weinen... Wie konntest du nur!",
+			"USER1 ist am flennen... Was hast du ihm/ihr angetan?",
+			"USER1 ist am weinen... Was hast du ihm/ihr angetan?"
+		]
+	}
+}

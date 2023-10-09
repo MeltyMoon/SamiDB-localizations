@@ -1,0 +1,18 @@
+{
+	"id": "wink",
+	"name": "zwinkern",
+	"description": "Zwinker zwinker!!",
+	"aliases": [
+		"zwinker"
+	],
+	"strings": {
+		"titles": [
+			"USER1 zwinkert~",
+			"USER1 zwinkert~ Ehehe~!",
+			"USER1 zwinkert.",
+			"USER1 zwinkert. Ehehe~!",
+			"USER1 zwinkert!",
+			"USER1 zwinkert! Ehehe~!"
+		]
+	}
+}
