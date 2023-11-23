@@ -1,0 +1,10 @@
+id: ping
+name: ping
+description: Returns the server latency.
+aliases:
+  - pong
+strings:
+  heresPing: Here's the server ping!
+  calculating: Calculating the server response time...
+  api: API
+  server: Server

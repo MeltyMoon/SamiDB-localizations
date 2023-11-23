@@ -1,0 +1,7 @@
+id: manga
+name: manga
+description: Searches for manga on kitsu.io.
+options:
+  - id: query
+    name: query
+    description: The name of the manga to search for.

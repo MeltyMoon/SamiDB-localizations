@@ -1,9 +1,0 @@
-{
-	"id": "goose",
-	"name": "gans",
-	"description": "Sendet ein zufälliges Bild einer Gans.",
-	"aliases": [],
-	"strings": {
-		"title": "Hier ist deine Gans!! Honk honk!!"
-	}
-}

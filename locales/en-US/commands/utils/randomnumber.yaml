@@ -1,0 +1,12 @@
+id: randomnumber
+name: randomnumber
+description: Generates a random number.
+options:
+  - id: min
+    name: min
+    description: The minimum number to generate.
+  - id: max
+    name: max
+    description: The maximum number to generate.
+strings:
+  here: "Heres your random number:"

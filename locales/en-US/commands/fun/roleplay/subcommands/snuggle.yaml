@@ -1,0 +1,19 @@
+id: snuggle
+id: snuggle
+name: snuggle
+description: Snuggle time.
+aliases:
+  - snuggle
+strings:
+  titles:
+    - USER1 snuggles USER2!
+    - USER1 snuggles USER2! Cute!
+    - USER1 snuggles USER2! Adorable
+    - USER1 cuddles USER2!
+    - USER1 cuddles USER2! Cute!
+    - USER1 cuddles USER2! Adorable
+  footer: USER1 has snuggled USER2 COUNT time'S'!
+options:
+  - id: user
+    name: user
+    description: The user to snuggle.

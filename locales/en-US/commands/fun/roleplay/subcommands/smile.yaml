@@ -1,0 +1,10 @@
+id: smile
+id: smile
+name: smile
+description: :D
+aliases:
+  - smile
+strings:
+  titles:
+    - USER1 is smiling!
+    - USER1 is happy!

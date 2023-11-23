@@ -1,0 +1,11 @@
+id: info
+name: info
+description: Zeigt Infos über SamiDB an.
+strings:
+  header: Ein sehr gemütlicher Discord Bot
+  botDescription: SamiDB ist ein stylischer Bot mit vielen Befehlen und
+    Funktionen, welche deinen Server garantiert besonders machen.
+  developerTitle: Entwickler
+  developerDescription: Hat den Bot entwickelt.
+  artistTitle: Künstler
+  artistDescription: Hat den neuen Avatar und die Zeichnungen für die Samchi-Funktion angefertigt.

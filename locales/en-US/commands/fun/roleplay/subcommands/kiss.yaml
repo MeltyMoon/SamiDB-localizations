@@ -1,0 +1,18 @@
+id: kiss
+id: kiss
+name: kiss
+description: Mwah!!!
+aliases:
+  - kiss
+strings:
+  titles:
+    - USER1 kisses USER2!
+    - USER1 smooches USER2!
+    - USER1 kisses USER2 on the lips!
+    - USER1 kisses USER2 on the cheeks!
+    - USER1 gives USER2 a smooch on the cheek!!
+  footer: USER1 has kissed USER2 COUNT time'S'!
+options:
+  - id: user
+    name: user
+    description: The user to kiss.

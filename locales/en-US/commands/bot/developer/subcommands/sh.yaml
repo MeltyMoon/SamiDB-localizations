@@ -1,0 +1,7 @@
+id: sh
+name: sh
+description: Runs shell commands.
+options:
+  - id: command
+    name: command
+    description: The command to run.

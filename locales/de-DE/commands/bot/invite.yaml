@@ -1,0 +1,7 @@
+id: einladung
+name: einladung
+aliases: []
+description: Lade diesen Bot auf deinen Server ein oder trete dem Support-Server bei.
+strings:
+  supportServer: Support-Server
+  homeServer: Heimat-Server

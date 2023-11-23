@@ -1,0 +1,76 @@
+alreadyVoted:
+  title: Already Voted on This Poll.
+  
+categoryNotFound:
+  title: Category Not Found
+  description: This command category could not be found.
+
+comingSoon:
+  title: Coming Soon
+  description: args[0] is still a work in progress thing!
+
+commandNotFound:
+  title: Command Not Found
+  description: This command could not be found.
+
+devOnly:
+  title: Command is Dev Only
+  description: This command can only be ran by a developer.
+
+disabledInPortals:
+  title: Command Disabled
+  description: This command is disabled in Portals.
+
+dmOnly:
+  title: Command is DM Only
+  description: This command can only be ran in direct messages.
+
+failedToReload:
+  title: Failed to Reload Command
+  description: An unknown error has occured when trying to reload the command.
+
+guildOnly:
+  title: Command is Guild Only
+  description: This command can only be ran in servers.
+
+invalidDuration:
+  title: Invalid Duration
+  description: "An invalid duration was provided.\nCorrect syntax example: `5d 2h 30s`"
+
+missingArgs:
+  title: Missing Arguments
+  description: Aargs[0] args[1] was not provided.
+
+missingBotPerms:
+  title: Missing Permissions
+  description: I am missing permissions to run this command. (args[0])
+
+missingMemberPerms:
+  title: Missing Permissions
+  description: You are missing permissions to run this command. (args[0])
+
+noResults:
+  title: No Results
+  
+notEnoughChoices:
+  title: Not Enough Choices
+  
+rareOccurrence:
+  title: What
+  description: You messed up didn't ya, buddy?
+
+stillWIP:
+  title: Command under construction.
+  description: This command isn't finished yet!
+
+timedOut:
+  title: Timed Out
+  
+unknown:
+  title: Unknown Error
+  description: An unknown error has occured.
+
+voteFailed:
+  title: Vote Failed
+  description: This poll is unknown or the polls database is still loading...
+

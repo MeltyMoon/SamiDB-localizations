@@ -1,0 +1,8 @@
+id: invite
+name: invite
+aliases:
+  - inv
+description: Invite the bot to your server, or join the support server!
+strings:
+  supportServer: Support Server
+  homeServer: Home Server

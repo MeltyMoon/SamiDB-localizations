@@ -1,0 +1,8 @@
+name: ""
+description: ""
+aliases:
+  - recache
+options:
+  - id: recachetype
+    name: recachetype
+    description: The type of things to recache.

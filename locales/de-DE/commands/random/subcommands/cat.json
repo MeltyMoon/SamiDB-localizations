@@ -1,9 +1,0 @@
-{
-	"id": "cat",
-	"name": "katze",
-	"description": "Sendet ein zufälliges Katzenbild.",
-	"aliases": [],
-	"strings": {
-		"title": "Hier ist deine Katze!"
-	}
-}

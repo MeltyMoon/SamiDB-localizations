@@ -1,0 +1,17 @@
+id: insult
+name: insult
+description: Gives you an insult.
+aliases:
+  - insultme
+strings:
+  insult:
+    - You have pursued intelligence all your life, but alas, it still evades you.
+    - I'd call your life a joke, but it'd need to be funny for that.
+    - Ur mom.
+    - You look like you should be imprisoned in an underground labyrinth for the
+      safety of crete.
+    - Ur dad.
+    - Common sense has been chasing you all your life, but alas, you are fast.
+    - Go play uno or something.
+    - I'd tell you to touch grass, but grass would die if you even got near it.
+    - You're making me test if the universe itself has a profanity filter.

@@ -1,0 +1,8 @@
+- id: exitedMenu
+  title: Exited the menu!
+
+- id: loadedCommand
+  title: Loaded the command!
+
+- id: reloadedCommand
+  title: Reloaded the command!

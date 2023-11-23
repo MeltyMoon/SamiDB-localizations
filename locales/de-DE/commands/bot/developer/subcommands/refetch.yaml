@@ -1,0 +1,8 @@
+name: refetch
+description: Refetches the github thing.
+aliases:
+  - refetch
+options:
+  - id: onfinish
+    name: onfinish
+    description: What to do when its done

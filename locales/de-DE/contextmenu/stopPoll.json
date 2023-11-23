@@ -1,7 +1,0 @@
-{
-	"id": "stopPoll",
-	"name": "umfrageStoppen",
-	"string": {
-		"stoppedPoll": "Umfrage gestoppt!"
-	}
-}

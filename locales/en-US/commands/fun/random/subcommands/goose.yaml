@@ -1,0 +1,7 @@
+id: goose
+name: goose
+description: Sends a random picture of a goose.
+aliases:
+  - goose
+strings:
+  title: Here's the goose you requested! Hjonk hjonk!!

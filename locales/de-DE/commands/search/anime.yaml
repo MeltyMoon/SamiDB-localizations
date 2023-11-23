@@ -1,0 +1,7 @@
+id: anime
+name: anime
+description: Suche nach einem Anime auf kitsu.io.
+options:
+  - id: query
+    name: anfrage
+    description: Der Name des Anime, welchen du suchst.

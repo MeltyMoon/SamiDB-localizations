@@ -1,0 +1,17 @@
+id: corn
+name: mais
+description: Sendet einen corno ;)
+aliases:
+  - cornographie
+strings:
+  heAteYourCorn:
+    - Wie tragisch... Er hat deinen Mais gegessen!!
+    - Wie tragisch... Er hat den Mais gegessen!!
+    - Oh nein, er hat deinen Mais gegessen!!
+    - Dieser Mann hat deinen Mais geklaut und gegessen!!
+  corn:
+    - Hier ist ein bisschen Mais!!
+    - Mais für dich!!
+    - Cornographie mit deiner Mutter.
+    - Habe etwas Mais!!
+    - Hier ist der Mais den du wolltest!!

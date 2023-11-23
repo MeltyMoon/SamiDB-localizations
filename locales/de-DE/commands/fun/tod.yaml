@@ -1,0 +1,94 @@
+id: tod
+name: wahrheitoderpflicht
+description: Startet eine Runde Wahrheit oder Pflicht.
+options:
+  - id: rating
+    name: altersbewertung
+    description: Die Altersbewertung für die Fragen/Aufgaben.
+  - id: choice
+    name: wahl
+    description: Sollen Fragen oder Aufgaben gestellt werden?
+strings:
+  truthPG:
+    - Wer hat die schönste Stimme.
+    - Was ist dein Lieblingstier?
+    - Was ist dein lustiger Spitzname?
+    - Was ist dein Lieblingsfilm?
+    - Was ist dein absolutes Hassfach?
+    - Was ist dein Lieblingsgemüse?
+    - Was ist dein Lieblingssnack?
+    - Was ist dein Lieblingsfach?
+    - Was ist deine schlechte Angewohnheit?
+    - Was ist dein verstecktes Talent?
+    - Was ist deine peinlichste Errinerung?
+    - Was ist deine früheste Errinerung?
+    - Welches Tier magst du am wenigsten?
+    - Was ist etwas, dass dich immer traurig macht?
+    - Was ist deine Lieblingsfrucht?
+    - Was ist das letzte Gemüse, dass du gegessen hast?
+    - Was ist ein Wort, das du erfunden hast?
+    - Welchen Disney-Film hast du als letztes geguckt?
+    - Was würdest du machen, wenn du plötzlich eine Milliarde Euro hättest?
+    - Welches Tier beschreibt dich am besten?
+    - Wovor hast du angst?
+    - Was versteckst du unter deinem Bett?
+    - Wer ist deine Lieblingsperson?
+    - Wer ist dein Lieblingsheld?
+    - Wer sind deine drei liebsten Leute?
+    - Wer hat den besten Klamottengeschmack in deiner Familie?
+    - Wie lange würdest du nicht duschen/baden, wenn dich niemand daran errinert?
+    - Hast du jemals Süßigkeiten vor deinen Eltern versteckt?
+    - Hast du jemals gelogen?
+    - Hast du jemals in der Öffentlichkeit gepupst und die Schuld auf jemand
+      anderen geschoben?
+    - Hast du schonmal aus versehen jemandem weh getan?
+    - Hast du jemald etwas falsch gemacht und die Schuld auf jemand anderen
+      geschoben?
+    - Hast du jemals über dein Alter gelogen?
+    - Wo würdest du gerne mal hinreisen?
+    - Würdest du deine/n Schwester/Bruder für eine Millionen Euro eintauschen?
+    - Wärst du lieber zu früh oder zu spät?
+    - Wenn du ein Tier sein könntest, welches wärst du?
+  darePG:
+    - Recite the alphabet backward.
+    - Walk around the room with a book on your head.
+    - Sing your favorite song.
+    - Do a handstand.
+    - Pretend to wash yourself like a cat.
+    - Bite into a slice of lemon.
+    - Put on some make-up without a mirror.
+    - Swap an item of clothing with someone.
+    - Act like a teacher.
+    - Do a Mickey Mouse impression.
+    - Prank call a friend.
+    - Make a silly face in front of a friend.
+    - Hug a tree in the yard.
+    - Act like a monkey for 30 seconds.
+    - Count backwards from 45.
+    - Ask your neighbor for some tea.
+    - Do a disco robot dance.
+    - Sing a silly song.
+    - Wear your pants on your head.
+    - Talk in a squeaky voice.
+    - Pretend to be an alligator.
+    - Laugh like a piggy.
+    - Pretend to be an astronaut.
+    - Do fifteen jumping jacks.
+    - Attempt a cartwheel.
+    - Give someone a piggyback ride.
+    - Keep your eyes completely closed for 2 minutes.
+    - Jog around the room ten times.
+    - Take a bite out of a stick of butter.
+    - Talk with your tongue sticking out for 2 minutes.
+    - Type something with only your nose.
+    - Eat a spoonful of mustard.
+    - Eat a spoonful of mayonnaise.
+  truthPG13: []
+  darePG13:
+    - Ask out your crush.
+    - Tell everyone who your crush is.
+    - Ping the person you want to date the most.
+  truthM:
+    - What is your Dirtiest Secret?
+    - What is your Preference in bed?
+  dareM: []

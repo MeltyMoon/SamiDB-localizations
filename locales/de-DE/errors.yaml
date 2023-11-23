@@ -1,0 +1,75 @@
+alreadyVoted:
+  title: Du hast bereits bei dieser Umfrage abgestimmt.
+
+categoryNotFound:
+  title: Kategorie nicht gefunden
+  description: Diese Kategorie konnte nicht gefunden werden.
+
+comingSoon:
+  title: Demnächst verfügbar
+  description: An args[0] wird aktuell noch gearbeitet!
+
+commandNotFound:
+  title: Befehl nicht gefunden
+  description: Dieser Befehl konnte nicht gefunden werden.
+
+devOnly:
+  title: Befehl nur für Entwickler
+  description: Dieser Befehl kann nur von einem Entwickler ausgeführt werden.
+
+disabledInPortals:
+  title: Befehl deaktiviert
+  description: Dieser Befehl ist für Portale deaktiviert.
+
+dmOnly:
+  title: Befehl nur für PMs
+  description: Dieser Befehl kann nur in privaten Chats ausgeführt werden.
+
+failedToReload:
+  title: Fehler beim neu laden
+  description: Ein unbekannter Fehler ist beim neu laden des Befehls aufgetreten.
+
+guildOnly:
+  title: Befehl nur für Gilden
+  description: Dieser Befehl kann nur in Gilden (Servern) ausgeführt werden.
+
+invalidDuration:
+  title: Ungültige Zeitangabe
+  description: "Eine ungültige Zeit wurde angegeben.\nKorrekte Syntax: `5d 2h 30s`"
+
+missingArgs:
+  title: Fehlende Arguments
+  description: Aargs[0] args[1] wurde nicht angegeben.
+
+missingBotPerms:
+  title: Fehlende Berechtigungen
+  description: Mir fehlen die Berechtigungen für diesen Befehl. (args[0])
+
+missingMemberPerms:
+  title: Fehlende Berechtigungen
+  description: Dir fehlen die Berechtigungen um diesen Befehl auszuführen. (args[0])
+
+noResults:
+  title: Keine Ergebnisse
+
+notEnoughChoices:
+  title: Nicht genug Wahloptionen
+
+rareOccurrence:
+  title: Was
+  description: Du hast irgendwas kaputt gemacht, oder?
+
+stillWIP:
+  title: Befehl in arbeit.
+  description: Dieser Befehl ist noch nicht fertig!
+
+timedOut:
+  title: Verfallen
+
+unknown:
+  title: Unbekannter Fehler
+  description: Ein unbekannter Fehler ist aufgetreten.
+
+voteFailed:
+  title: Wahl fehlgeschlagenVote Failed
+  description: Diese Umfrage existiert nicht oder die Datenbank lädt noch...

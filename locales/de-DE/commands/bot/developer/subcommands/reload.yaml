@@ -1,0 +1,8 @@
+name: reload
+description: Reloads stuff.
+aliases:
+  - reload
+options:
+  - id: reloadid
+    name: reloadid
+    description: The id of the thing to reload.

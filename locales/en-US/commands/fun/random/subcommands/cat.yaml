@@ -1,0 +1,7 @@
+id: cat
+name: cat
+description: Sends a random cat picture.
+aliases:
+  - cat
+strings:
+  title: Here's the cat you requested!

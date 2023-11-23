@@ -1,0 +1,27 @@
+id: 8ball
+name: 8ball
+description: Die magische Kugel wird dein Schicksal bestimmen.
+strings:
+  responses:
+    - Es ist bestimmt
+    - Es soll so sein
+    - Ohne jegliche Zweifel
+    - Ja, auf jeden Fall
+    - Du kannst darauf wetten
+    - So wie ich es sehe, ja
+    - Sehr wahrscheinlich ja
+    - Es sieht gut aus
+    - Ja
+    - Die Zeichen deuten auf ja
+    - Frag später nochmal
+    - Das sollte ich dir jetzt nicht sagen
+    - Vielleicht
+    - Wette nicht darauf
+    - Meine Antwort ist nein
+    - Meine Quellen sagen nein
+    - Es sieht nicht gut aus
+    - Sehr zweifelhaft
+options:
+  - id: frage
+    name: frage
+    description: Die Frage, welche du der Kugel stellen möchtest.

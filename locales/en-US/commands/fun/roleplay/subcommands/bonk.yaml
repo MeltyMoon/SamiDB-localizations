@@ -1,0 +1,15 @@
+id: bonk
+id: bonk
+name: bonk
+description: Go to horny jail!!
+aliases:
+  - bonk
+strings:
+  titles:
+    - USER1 bonks USER2!
+    - USER1 bonks USER2! Go to horny jail!
+  footer: USER1 has bonked USER2 COUNT time'S'!
+options:
+  - id: user
+    name: user
+    description: The user to bonk.

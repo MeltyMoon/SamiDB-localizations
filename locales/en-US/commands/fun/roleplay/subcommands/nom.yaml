@@ -1,0 +1,17 @@
+id: nom
+id: nom
+name: nom
+description: NOM!
+aliases:
+  - nom
+strings:
+  titles:
+    - USER1 noms USER2!
+    - USER1 bites USER2!
+    - USER1 noms USER2! Chomp!!
+    - USER1 bites USER2! Chomp!!
+  footer: USER1 has nommed USER2 COUNT time'S'!
+options:
+  - id: user
+    name: user
+    description: The user to nom.

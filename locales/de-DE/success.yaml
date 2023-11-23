@@ -1,0 +1,8 @@
+- id: exitedMenu
+  title: Menü verlassen!
+
+- id: loadedCommand
+  title: Befehl geladen!
+
+- id: reloadedCommand
+  title: Befehl neu geladen!

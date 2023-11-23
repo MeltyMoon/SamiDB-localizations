@@ -1,0 +1,4 @@
+id: stopPoll
+name: umfrageStoppen
+strings:
+  stoppedPoll": "Umfrage gestoppt!"

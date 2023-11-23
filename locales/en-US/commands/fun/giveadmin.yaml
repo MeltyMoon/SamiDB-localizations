@@ -1,0 +1,40 @@
+id: giveadmin
+name: givemeadmin
+description: Totally gives you admin 100% legit.
+aliases:
+  - ""
+strings:
+  given:
+    titles:
+      start:
+        - Admin
+        - Staff
+        - Mod
+        - Admin perms
+        - Staff perms
+        - Mod perms
+        - You
+      end:
+        - " given!!"
+        - " granted!!"
+        - " has been staffed!!"
+        - " has have been staffed!!"
+        - " have been staffed!!"
+        - "!!"
+    descriptions:
+      - You are now totally an admin!!!
+      - You are now totally an admin!!!
+      - You have been given admin!!!
+      - You are now totally part of the mod-staff team!!!
+  tooBad:
+    titles:
+      - Too bad!!
+      - Not today!!
+      - Sorry bud!
+    descriptions:
+      - No staff for u.
+      - No staff 4 u.
+      - No admin for u.
+      - No admin 4 u.
+      - No mod for u.
+      - No mod 4 u.

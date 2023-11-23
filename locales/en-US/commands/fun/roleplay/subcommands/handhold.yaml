@@ -1,0 +1,20 @@
+id: handhold
+id: handhold
+name: handhold
+description: Handholding before marriage???? So lewd!!
+aliases:
+  - hold
+  - handhold
+strings:
+  titles:
+    - USER1 holds USER2's hand.
+    - USER1 holds USER2's hand. So lewd!!!
+    - USER1 grabs USER2's hand.
+    - USER1 grabs USER2's hand. So lewd!!!
+    - USER1 takes USER2's hand.
+    - USER1 takes USER2's hand. So lewd!!!
+  footer: USER1 has held USER2's hand COUNT time'S'!
+options:
+  - id: user
+    name: user
+    description: The user who's hand to hold.
