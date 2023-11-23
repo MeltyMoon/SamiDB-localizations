@@ -1,76 +1,76 @@
-alreadyVoted:
+- id: alreadyVoted
   title: Already Voted on This Poll.
   
-categoryNotFound:
+- id: categoryNotFound
   title: Category Not Found
   description: This command category could not be found.
 
-comingSoon:
+- id: comingSoon
   title: Coming Soon
   description: args[0] is still a work in progress thing!
 
-commandNotFound:
+- id: commandNotFound
   title: Command Not Found
   description: This command could not be found.
 
-devOnly:
+- id: devOnly
   title: Command is Dev Only
   description: This command can only be ran by a developer.
 
-disabledInPortals:
+- id: disabledInPortals
   title: Command Disabled
   description: This command is disabled in Portals.
 
-dmOnly:
+- id: dmOnly
   title: Command is DM Only
   description: This command can only be ran in direct messages.
 
-failedToReload:
+- id: failedToReload
   title: Failed to Reload Command
   description: An unknown error has occured when trying to reload the command.
 
-guildOnly:
+- id: guildOnly
   title: Command is Guild Only
   description: This command can only be ran in servers.
 
-invalidDuration:
+- id: invalidDuration
   title: Invalid Duration
   description: "An invalid duration was provided.\nCorrect syntax example: `5d 2h 30s`"
 
-missingArgs:
+- id: missingArgs
   title: Missing Arguments
   description: Aargs[0] args[1] was not provided.
 
-missingBotPerms:
+- id: missingBotPerms
   title: Missing Permissions
   description: I am missing permissions to run this command. (args[0])
 
-missingMemberPerms:
+- id: missingMemberPerms
   title: Missing Permissions
   description: You are missing permissions to run this command. (args[0])
 
-noResults:
+- id: noResults
   title: No Results
   
-notEnoughChoices:
+- id: notEnoughChoices
   title: Not Enough Choices
   
-rareOccurrence:
+- id: rareOccurrence
   title: What
   description: You messed up didn't ya, buddy?
 
-stillWIP:
+- id: stillWIP
   title: Command under construction.
   description: This command isn't finished yet!
 
-timedOut:
+- id: timedOut
   title: Timed Out
   
-unknown:
+- id: unknown
   title: Unknown Error
   description: An unknown error has occured.
 
-voteFailed:
+- id: voteFailed
   title: Vote Failed
   description: This poll is unknown or the polls database is still loading...
 
